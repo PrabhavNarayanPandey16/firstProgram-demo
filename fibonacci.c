@@ -15,9 +15,9 @@ int main() {
 
    printf("The %dth fibonacci is : %d",n,x);
 
-   printf("Hello Ram ");
+   printf("Hello World ");
    
-   printf("Hello Prabhav ");
+   printf("Hello India ");
  
     return 0;
 }
