@@ -18,6 +18,8 @@ int main() {
    printf("Hello World ");
    
    printf("Hello India ");
+
+   printf("Hello Ram ");
  
     return 0;
 }
