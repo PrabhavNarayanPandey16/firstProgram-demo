@@ -42,7 +42,7 @@ int main () {
 */
 
   
-    // MIXED NUMBER TRIANGLE 
+    // NUMBER AND ALPHABET TRIANGLE 
 /*
      int n;
      printf("Enter number of row : ");
