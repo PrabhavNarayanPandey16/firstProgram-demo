@@ -14,12 +14,7 @@ int main() {
    int x = fibonacci(n);
 
    printf("The %dth fibonacci is : %d",n,x);
-
-   printf("Hello World ");
-   
-   printf("Hello India ");
-
-   printf("Hello Ram ");
  
     return 0;
 }
+
